@@ -179,13 +179,16 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts-list-link:hover{
-  color: color: #404bbf;
+.contacts-list-link:hover {
+  color: #404bbf;
 }
-.contacts-list-link:focus{
+.contacts-list-link:focus {
   color: #404bbf;
 }
 .text-footer {
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.logo-type-footer {
+  color: #f4f4fd;
 }
