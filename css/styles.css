@@ -19,6 +19,7 @@
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 .button-hero {
   border-radius: 4px 0px 0px 0px;
@@ -94,7 +95,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-style: normal;
-  font-family: "Roboto", "Raleway" sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 .portfolio-title {
   font-family: Roboto;
@@ -104,6 +105,7 @@ body {
   line-height: 1.11;
   text-transform: capitalize;
   color: #2e2f42;
+  text-align: center;
 }
 .portfolio-name {
   font-family: Roboto;
@@ -135,19 +137,22 @@ body {
   color: #4d5ae5;
 }
 .logo-type {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 .logo-list {
   font-weight: 500;
-  color: #434455;
-}
-.logo-list:hover {
-  color: #404bbf;
-}
-.logo-list:focus {
-  color: #404bbf;
+  color: #2e2f42;
 }
 
+.logo-link {
+  color: #434455;
+}
+.logo-link:hover {
+  color: #404bbf;
+}
+.logo-link:focus {
+  color: #404bbf;
+}
 .contacts {
   font-style: normal;
 }
